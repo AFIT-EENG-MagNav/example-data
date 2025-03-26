@@ -1,6 +1,6 @@
 # Data sources
 
-These are some example data files.
+These are some example data files, links from perma link
 
 ## MIT-AIA data
 
@@ -17,4 +17,12 @@ North American Magnetic Anomaly Database/Grid, originally from https://mrdata.us
 
 ``` bash
 wget https://github.com/AFIT-EENG-MagNav/example-data/raw/refs/heads/main/namad/USMAG_origmrg.gxf.zip
+```
+
+## Geodesy
+
+Geoid data files originally from here https://geographiclib.sourceforge.io/C++/doc/geoid.html
+
+``` bash
+wget https://github.com/AFIT-EENG-MagNav/example-data/raw/refs/heads/main/geodesy/geoids/egm2008-2_5.pgm.zip
 ```
